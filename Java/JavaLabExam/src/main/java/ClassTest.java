@@ -1,14 +1,12 @@
 import java.util.*;
 import java.util.ArrayList;
-import java.util.List;
 
 public class ClassTest {
 
-        List<String> listing = new ArrayList<String>();
-        public void addName (String name){
-            name name1 = new name("17 Batch");
+        List<String> listing = new ArrayList<>();
+        ClassTest(){
             for(int i=0;i<50;i++) {
-                listing.add(name);
+                listing.add("17 Batch");
             }
         }
 
