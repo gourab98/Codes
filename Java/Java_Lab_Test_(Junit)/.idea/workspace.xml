@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="751de06e-99a1-40c9-a3e0-c9c9788236a9" name="Default Changelist" comment="" />
+    <list default="true" id="751de06e-99a1-40c9-a3e0-c9c9788236a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaLabExam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLabExam/src/main/java/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLabExam/src/main/java/name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaLabExam/src/test/java/ClassTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaLabExam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaLabExam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ContactManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ContactManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ContactManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ContactManagerTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="20ionSIdzvjxgifMHH5IFUkAKMh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,6 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -84,11 +99,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContactManagerTest.valueCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContactManagerTest.shouldCreateContact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Lab_Test_(Junit)" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ContactManagerTest" />
-      <option name="METHOD_NAME" value="valueCheck" />
+      <option name="METHOD_NAME" value="shouldCreateContact" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,10 +112,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ContactManagerTest" />
-        <item itemvalue="JUnit.ContactManagerTest.parameterTest" />
         <item itemvalue="JUnit.ContactManagerTest.arrayTest" />
+        <item itemvalue="JUnit.ContactManagerTest.shouldCreateContact" />
+        <item itemvalue="JUnit.ContactManagerTest.parameterTest" />
         <item itemvalue="JUnit.ContactManagerTest.sameName" />
-        <item itemvalue="JUnit.ContactManagerTest.valueCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -130,26 +145,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636557848171" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1636564876830">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom" timestamp="1636779878037">
+      <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636564876830" />
-    <state width="1323" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1636557682752" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1636564876830">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1636779878037" />
+    <state width="1323" height="220" key="GridCell.Tab.0.center" timestamp="1636779878037">
+      <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636564876830" />
-    <state width="1323" height="204" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1636557682752" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1636564876830">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="220" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1636779878037" />
+    <state width="1323" height="220" key="GridCell.Tab.0.left" timestamp="1636779878037">
+      <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636564876830" />
-    <state width="1323" height="204" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1636557682751" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1636564876830">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1323" height="220" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1636779878037" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right" timestamp="1636779878037">
+      <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636564876830" />
-    <state width="1323" height="204" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1636557682752" />
+    <state width="1323" height="220" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1636779878037" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1636564876831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

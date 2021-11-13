@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c625295-4769-42fe-89f3-77e92339a70c" name="Default Changelist" comment="" />
+    <list default="true" id="4c625295-4769-42fe-89f3-77e92339a70c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ClassTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Lab_Test_(Junit)/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Lab_Test_(Junit)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_Lab_Test_(Junit)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Lab_Test_(Junit)/src/test/java/ContactManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_Lab_Test_(Junit)/src/test/java/ContactManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_Lab_Test_(Junit)/target/test-classes/ContactManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_Lab_Test_(Junit)/target/test-classes/ContactManagerTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="20jVC6vJ0kV46Hi88H9hl0qJ6CI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +44,81 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Lab_Test_(Junit)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ClassTestTest">
+    <configuration name="ClassTestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLabExam" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClassTestTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTestTest.parameterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLabExam" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClassTestTest" />
+      <option name="METHOD_NAME" value="parameterTest(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTestTest.parameterTestCSV (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLabExam" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClassTestTest" />
+      <option name="METHOD_NAME" value="parameterTestCSV(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTestTest.testProgram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLabExam" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClassTestTest" />
+      <option name="METHOD_NAME" value="testProgram" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassTestTest.testingList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLabExam" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClassTestTest" />
+      <option name="METHOD_NAME" value="testingList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClassTestTest" />
+        <item itemvalue="JUnit.ClassTestTest.testProgram" />
+        <item itemvalue="JUnit.ClassTestTest.testingList" />
+        <item itemvalue="JUnit.ClassTestTest.parameterTest" />
+        <item itemvalue="JUnit.ClassTestTest.parameterTestCSV (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,9 +134,54 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1641" y="22" key="#Project_Structure" timestamp="1636558245659">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1636757263890">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636757263890" />
+    <state x="1641" y="22" key="#Project_Structure/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1636558245659" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1636757394178">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636757394178" />
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom" timestamp="1636789233989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636789233989" />
+    <state width="1323" height="210" key="GridCell.Tab.0.center" timestamp="1636789233988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636789233988" />
+    <state width="1323" height="210" key="GridCell.Tab.0.left" timestamp="1636789233988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636789233988" />
+    <state width="1323" height="210" key="GridCell.Tab.0.right" timestamp="1636789233988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="210" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636789233988" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1636789207333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636789207333" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1636789207333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636789207333" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1636789207333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636789207333" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1636789207333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636789207333" />
+    <state x="1745" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1636757248502">
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
-    <state x="1641" y="22" key="#Project_Structure/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1636558245659" />
+    <state x="1745" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1636757248502" />
+    <state x="454" y="82" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1636782209650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="82" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1636782209650" />
   </component>
 </project>

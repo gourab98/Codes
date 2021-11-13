@@ -82,7 +82,7 @@ class ContactManagerTest {
 
     @Test
     void arrayTest(){
-        assertArrayEquals(new int[] {1,2,3,4},new int[] {1,2,3,4});
+        assertArrayEquals(new int[] {1,2,3,4},new int[] {1,2,2,4});
     }
 
     @ParameterizedTest
@@ -107,7 +107,7 @@ class ContactManagerTest {
     }
 
     private static List<String> phoneNumberList(){
-        return Arrays.asList("01943739572","03546356483");
+        return Arrays.asList("01943739572","03546356483","");
     }
 
 }
