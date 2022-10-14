@@ -14,12 +14,12 @@ body {
     background-color: rgb(251,199,127);
 }
 
-header{
+h1{
     padding: 10px;
 }
 
 .departures{
-    background-color: rgb(6,6,6,);
+    background-color: rgb(6,6,6);
     border-radius: 10px;
     padding: 10px;
 }
