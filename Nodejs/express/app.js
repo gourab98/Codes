@@ -16,7 +16,7 @@ app.get('/contact', function(req,res){
 // using id:
 app.get('/profile/:name',function(req,res){
     //res.send('You are requested to see a profile with the id of '+ req.params.id)
-    var data = {age: 24, job: 'Student'}
+    var data = {age: 24, job: 'Student', hobbies: ['eating','reading','sitting']}
     res.render('profile',{person: req.params.name, data: data})
 })
 
