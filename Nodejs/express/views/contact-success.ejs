@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+    <style>
+        body{background: skyblue; font-family: Verdana; color: #fff; padding: 30px;}
+        h1{font-size: 48px; text-transform: uppercase; letter-spacing: 2px; text-align: center;}
+        p{font-size: 16px; text-align: center;}
+        form{width: 400px; max-width: 100%; padding: 20px; margin: 20px auto;}
+        input, label{display: block; margin: 10px 0; padding: 5px; width: 100%;}
+        input[type='submit']{width: auto;}
+    </style>
+    <script src='app.js'></script>
+</head>
+<body>
+    <h1>Contact page.</h1>
+    <p>Thanks for getting in touch.</p>
+    <p>You contacted <%= data.who %> in the <%= data.department%> department.</p>
+    <p>We will reply to you at <%= data.email%> </p>
+
+
+</body>
+</html>
